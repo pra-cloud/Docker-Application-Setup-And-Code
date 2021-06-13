@@ -29,3 +29,4 @@ cd /var/www/cgi-bin
 
 chmod +x *
 
+

@@ -34,5 +34,8 @@ cd /var/www/cgi-bin
 #give permission of read and write to the all files
 
 chmod +x *
+cmod 775 *
+
+for docker container file chmod 775 file.py is very require.
 
 
